@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #313131;
+}
+
+/* Icon */
+
+.image {
+    color: white;
+}
+
+.navbar {
+    padding: 0;
+    width: 20px;
+    margin-top: 2vh;
+}
+
+.home, .search, .sound, .profile, .spotify, .cloud, .settings {
+    width: 20px;
+    margin-top: 5vh;
+    display: flex;
+}
